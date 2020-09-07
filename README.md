@@ -1,4 +1,4 @@
-![React Avançado](https://raw.githubusercontent.com/joaosoarees/boilerplate/public/img/logo-gh.svg)
+![React Avançado](./public/img/logo-gh.svg)
 
 This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
 
